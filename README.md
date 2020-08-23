@@ -23,8 +23,9 @@ eg.
 A
 >>You are in the key of A
 Dmaj7
->>Vmaj7
 
+
+Vmaj7
 --|--|--|00
 --|00|--|--
 --|00|--|--
