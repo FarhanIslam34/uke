@@ -1,6 +1,5 @@
+```
 Farhan Islam 22.08.2020
-
-
 
 uke is a simple tool for quickly accessing chord fingerings for ukulele.
 
@@ -30,3 +29,4 @@ Vmaj7
 --|00|--|--
 --|00|--|--
 --|00|--|--
+```
