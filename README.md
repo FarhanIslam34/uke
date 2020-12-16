@@ -8,7 +8,7 @@ uke has record of major, minor, dominant 7, major 7, minor 7, and 6 chords.
 
 eg.
 
->> uke Cmaj7
+> uke Cmaj7
 
 --|00|--|--
 --|--|--|--
@@ -18,12 +18,11 @@ eg.
 If uke is provided no argument, it will prompt for a key. After which, all chords will be displayed with not only the fingering diagram but also the roman numeral representation of the chord.
 
 eg.
->> uke
->>Enter key
+> uke
+>Enter key
 A
->>You are in the key of A
+>You are in the key of A
 Dmaj7
-
 
 Vmaj7
 --|--|--|00
